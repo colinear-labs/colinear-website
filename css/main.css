@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    font-family: 'Roobert';
+}
+
+html {
+    cursor: url("~/static/icons/cursor.svg") 8 8,auto;
+}
+
+@font-face {
+    font-family: 'Roobert';
+    src: url("~/static/fonts/Roobert-Regular.woff") format("woff"),url("~/static/fonts/Roobert-Regular.woff2") format("woff2");
+    font-weight: 400;
+    font-style: normal
+}
