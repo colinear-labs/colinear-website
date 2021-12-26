@@ -1,8 +1,8 @@
 <template>
-    <div class="flex justify-between items-center text-neutral-800 tracking-wide py-9">
+    <div class="flex justify-between items-center text-neutral-800 tracking-wide py-9" data-aos="fade">
         <div class="flex cursor-pointer">
             <img src="~/static/icons/menu.svg" class="mr-7"/>
-            <span>MENU</span>
+            <span>HOME</span>
         </div>
         <a href="#" class="flex items-center" style="width: 77px;">
             DOCS

@@ -6,6 +6,7 @@
       <Hero />
       <Divider />
     </div>
+    <Footer />
   </div>
 </template>
 
