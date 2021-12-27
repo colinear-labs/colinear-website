@@ -13,11 +13,11 @@
         </div>
         <div class="flex text-sm justify-between tracking-wider items-center text-gray-400">
             <div>© 2021 Colinear Technologies</div>
-            <a class="text-xs uppercase" href="#">About Us</a>
-            <a class="text-xs uppercase" href="#">Documentation</a>
-            <a class="text-xs uppercase" href="#">Terms Of Use</a>
-            <a class="text-xs uppercase" href="#">Privacy Policy</a>
-            <a class="text-xs uppercase" href="#">Cookie Statement</a>
+            <a class="text-sm" href="#">About Us</a>
+            <a class="text-sm" href="#">Documentation</a>
+            <a class="text-sm" href="#">Terms Of Use</a>
+            <a class="text-sm" href="#">Privacy Policy</a>
+            <a class="text-sm" href="#">Cookie Policy</a>
         </div>
     </div>
 </template>

@@ -4,7 +4,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'Colinear - Decentralized payments network',
+    title: 'Colinear - Decentralized Payments Network',
     htmlAttrs: {
       lang: 'en'
     },
