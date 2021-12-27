@@ -1,5 +1,5 @@
 <template>
-    <div class="flex flex-col bg-black text-gray-200 px-10 py-14">
+    <div class="flex flex-col bg-black text-gray-200 px-10 pt-14 pb-10">
         <div class="flex items-center justify-between tracking-wide mb-10">
             <img src="~/static/logo-dark.png" class="h-5" />
             <a class="flex items-center" href="mailto:investors@colinear.io">
