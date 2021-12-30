@@ -1,8 +1,8 @@
 <template>
-  <div class="flex px-32 py-48">
+  <div class="flex px-32 py-40">
     <div class="w-1/2 mr-8">
       <h2 class="font-title" data-aos="fade-in">
-        Colinear is a <u>decentralized</u> payment gateway powering the next generation of global commerce.
+        Colinear is a <i>decentralized</i><br> payment gateway powering the next generation of global commerce.
       </h2>
     </div>
     <div class="flex flex-col font-roboto w-1/2 mt-1 ml-8">
@@ -33,13 +33,14 @@ h2 {
 p {
   font-weight: 300;
   font-size: 20px;
-  line-height: 28px;
+  line-height: 30px;
 
   letter-spacing: 0.01em;
 }
 
 .flex {
-  background: #f7f7fc;
+  /* background: #f7f7fc; */
+  background: #f0f0f6;
 }
 
 button {

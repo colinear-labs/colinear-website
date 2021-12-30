@@ -1,5 +1,6 @@
 <template>
   <div class="about">
+    <Navbar />
     <div class="flex flex-col antialiased w-5/12 py-32 mx-auto">
       <h2 class="font-title" data-aos="fade-up">
         We are transforming cryptocurrency into a mainstream payment method by
@@ -74,6 +75,6 @@ p {
 }
 
 .about {
-  background: #f7f7fc;
+  background: #f0f0f6;
 }
 </style>

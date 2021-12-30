@@ -1,5 +1,6 @@
 <template>
   <div class="home antialiased">
+    <Navbar />
     <About />
     <Compare />
     <Token />
