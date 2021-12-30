@@ -1,23 +1,110 @@
 <template>
-    <div class="flex flex-col bg-black text-gray-200 px-10 pt-14 pb-10">
-        <div class="flex items-center justify-between tracking-wide mb-10">
-            <img src="~/static/logo-dark.png" class="h-5" />
-            <a class="flex items-center" href="mailto:investors@colinear.io">
-                Contact Us
-                <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 ml-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3" />
-                </svg>
-                &nbsp;
-                [investors@colinear.io]
-            </a>
-        </div>
-        <div class="flex text-sm justify-between tracking-wider items-center text-gray-400">
-            <div>© 2021 Colinear Technologies</div>
-            <a class="text-sm" href="#">About Us</a>
-            <a class="text-sm" href="#">Documentation</a>
-            <a class="text-sm" href="#">Terms Of Use</a>
-            <a class="text-sm" href="#">Privacy Policy</a>
-            <a class="text-sm" href="#">Cookie Policy</a>
+  <div class="flex flex-col antialiased px-32 pt-28 pb-12">
+    <div class="flex justify-between">
+      <div class="flex flex-col w-1/3">
+        <h2 class="font-roboto" data-aos="fade-in">Start building with <br> Colinear today.</h2>
+        <button
+          class="
+            flex
+            items-center
+            mt-auto
+            text-white
+            border border-gray-200
+            rounded
+            w-48
+            px-5
+            py-3
+            mb-1
+          "
+        >
+          <div>Documentation</div>
+          <img src="~/static/arrow-up-right.svg" class="ml-auto" />
+        </button>
+      </div>
+      <div class="flex flex-col w-1/4 mt-1">
+        <h3 class="mb-8" data-aos="fade-in">Quick start</h3>
+        <a class="flex justify-between items-center mb-4" data-aos="fade-in">
+          <p>What is Colinear network?</p>
+          <img src="~/static/arrow-up-right.svg" />
+        </a>
+        <a class="flex justify-between items-center mb-4" data-aos="fade-in">
+          <p>What is Colinear CLI?</p>
+          <img src="~/static/arrow-up-right.svg" />
+        </a>
+        <a class="flex justify-between items-center mb-4" data-aos="fade-in">
+          <p>Get started with Colinear CLI</p>
+          <img src="~/static/arrow-up-right.svg" />
+        </a>
+        <a class="flex justify-between items-center mb-4" data-aos="fade-in">
+          <p>Install Colinear Gateway</p>
+          <img src="~/static/arrow-up-right.svg" />
+        </a>
+        <a class="flex justify-between items-center" data-aos="fade-in">
+          <p>Create a Node</p>
+          <img src="~/static/arrow-up-right.svg" />
+        </a>
+      </div>
+      <div class="flex flex-col w-1/5 mt-1">
+        <h3 class="mb-8" data-aos="fade-in">Community</h3>
+        <a class="flex justify-between items-center mb-4" data-aos="fade-in">
+          <p>Github</p>
+          <img src="~/static/arrow-up-right.svg" />
+        </a>
+        <a class="flex justify-between items-center mb-4" data-aos="fade-in">
+          <p>Dockerhub</p>
+          <img src="~/static/arrow-up-right.svg" />
+        </a>
+        <a class="flex justify-between items-center mb-4" data-aos="fade-in">
+          <p>PyPI</p>
+          <img src="~/static/arrow-up-right.svg" />
+        </a>
+        <a class="flex justify-between items-center" data-aos="fade-in">
+          <p>Twitter</p>
+          <img src="~/static/arrow-up-right.svg" />
+        </a>
+      </div>
+    </div>
+    <hr class="border-t border-neutral-700 mt-20 mb-12">
+    <div class="flex justify-between items-center">
+        <small class="text-sm text-gray-100">Copyright © {{ new Date().getFullYear() }} Colinear.</small>
+        <div class="flex items-center">
+            <a class="text-sm text-gray-100 mr-4">Privacy</a>
+            <a class="text-sm text-gray-100 mr-4">Terms</a>
+            <a class="text-sm text-gray-100 mr-4" href="mailto:investors@colinear.io">Contact Us &#8594; investors@colinear.io</a>
         </div>
     </div>
+  </div>
 </template>
+
+<style scoped>
+h2 {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 33px;
+  line-height: 38px;
+
+  color: #ffffff;
+}
+
+h3 {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 19px;
+  line-height: 23px;
+
+  color: #ffffff;
+}
+
+p {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 17px;
+  line-height: 21px;
+
+  color: #c0bfc7;
+}
+
+.flex {
+  background: #131212;
+}
+</style>
