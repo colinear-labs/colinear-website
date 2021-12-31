@@ -1,7 +1,7 @@
 <template>
   <div class="flex pl-32 pr-24 pt-12 antialiased">
     <nuxt-link to="/" class="mr-auto" style="height: 38px;" >
-      <img src="~/static/logo.svg" class="mr-auto" style="margin-left: -5px;" />
+      <img src="~/static/logo_v3.svg" class="mr-auto" style="margin-left: -5px;" />
     </nuxt-link>
     <div class="flex items-center">
       <nuxt-link to="/" class="mr-10"> Home </nuxt-link>
@@ -22,7 +22,7 @@
 a {
   font-style: normal;
   font-weight: normal;
-  font-size: 17.5px;
+  font-size: 17px;
   line-height: 21px;
 
   letter-spacing: 0.01em;
@@ -32,5 +32,6 @@ a {
 
 a.nuxt-link-exact-active {
   text-decoration: underline;
+  text-underline-offset: 5px;
 }
 </style>
