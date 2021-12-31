@@ -1,5 +1,5 @@
 <template>
-  <div class="flex px-32 py-40">
+  <div class="flex px-32 py-36">
     <div class="w-1/2 mr-8">
       <h2 class="font-title" data-aos="fade-in">
         Colinear is a <i>decentralized</i><br> payment gateway powering the next generation of global commerce.

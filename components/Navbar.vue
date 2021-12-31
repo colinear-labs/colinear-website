@@ -1,7 +1,7 @@
 <template>
-  <div class="flex pl-32 pr-24 antialiased pt-12">
-    <nuxt-link to="/" class="mr-auto">
-      <img src="~/static/logo.svg" class="mr-auto" />
+  <div class="flex pl-32 pr-24 pt-12 antialiased">
+    <nuxt-link to="/" class="mr-auto" style="height: 38px;" >
+      <img src="~/static/logo.svg" class="mr-auto" style="margin-left: -5px;" />
     </nuxt-link>
     <div class="flex items-center">
       <nuxt-link to="/" class="mr-10"> Home </nuxt-link>
@@ -18,6 +18,7 @@
 .flex {
   background: #f0f0f6;
 }
+
 a {
   font-style: normal;
   font-weight: normal;

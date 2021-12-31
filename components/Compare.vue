@@ -71,7 +71,7 @@ h4 {
 
 p {
   font-weight: 300;
-  font-size: 21px;
+  font-size: 20px;
   line-height: 26px;
 
   letter-spacing: 0.02em;

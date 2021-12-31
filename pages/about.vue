@@ -1,7 +1,7 @@
 <template>
   <div class="about">
     <Navbar />
-    <div class="flex flex-col antialiased w-5/12 py-32 mx-auto">
+    <div class="flex flex-col antialiased w-5/12 pt-32 pb-40 mx-auto">
       <h2 class="font-title" data-aos="fade-up">
         We are transforming cryptocurrency into a mainstream payment method by
         building a decentralized payment processing network that allows merchants across
@@ -69,7 +69,7 @@ h3 {
 
 p {
   font-size: 18px;
-  line-height: 28px;
+  line-height: 29px;
   letter-spacing: -0.01em;
   color: rgb(5, 5, 5);
 }
