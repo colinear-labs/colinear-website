@@ -30,8 +30,7 @@ a {
   color: #000000;
 }
 
-a.nuxt-link-exact-active {
-  text-decoration: underline;
-  text-underline-offset: 5px;
+a:hover {
+  color: #7c7c7c;
 }
 </style>

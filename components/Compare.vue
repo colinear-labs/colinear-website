@@ -57,7 +57,8 @@ h3 {
 
 h2 {
   font-size: 36px;
-  letter-spacing: 0.03em;
+  /* letter-spacing: 0.03em; */
+  letter-spacing: -0.02em;
   color: #f0f0f7;
 }
 

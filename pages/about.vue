@@ -62,7 +62,7 @@ h3 {
   font-size: 16px;
   line-height: 36px;
 
-  letter-spacing: 0.2em;
+  letter-spacing: 0.25em;
 
   color: #7e7e81;
 }

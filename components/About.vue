@@ -2,7 +2,8 @@
   <div class="flex px-32 py-36">
     <div class="w-1/2 mr-8">
       <h2 class="font-title" data-aos="fade-in">
-        Colinear is a <i>decentralized</i><br> payment gateway powering the next generation of global commerce.
+        Colinear is a decentralized payment gateway powering the next generation
+        of global commerce.
       </h2>
     </div>
     <div class="flex flex-col font-roboto w-1/2 mt-1 ml-8">
@@ -12,9 +13,9 @@
         reliability, and high setup costs.
         <br />
         <br />
-        It is based on a peer to peer (P2P) network that includes blockchain nodes,
-        proof of stake, encrypted routing, and an economic model that enables and
-        fosters the deployment of this architecture.
+        It is based on a peer to peer (P2P) network that includes blockchain
+        nodes, proof of stake, encrypted routing, and an economic model that
+        enables and fosters the deployment of this architecture.
       </p>
       <button class="flex items-center mt-12" data-aos="fade-up">
         <div class="mr-8">ABOUT</div>
