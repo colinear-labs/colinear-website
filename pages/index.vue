@@ -2,9 +2,9 @@
   <div class="home antialiased">
     <Navbar />
     <About />
+    <Token />
     <Product />
     <Compare />
-    <Token />
     <Participate />
     <Footer />
   </div>
