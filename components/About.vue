@@ -1,12 +1,12 @@
 <template>
-  <div class="flex px-32 py-36">
+  <div class="flex px-32 pt-36 pb-40">
     <div class="w-1/2 mr-8">
       <h2 class="font-title" data-aos="fade-in">
         Colinear is a decentralized payment gateway powering the next generation
         of global commerce.
       </h2>
     </div>
-    <div class="flex flex-col font-roboto w-1/2 mt-1 ml-8">
+    <div class="flex flex-col font-roboto w-1/2 ml-8">
       <p data-aos="fade-up">
         Colinear is designed to solve issues prevalent in current payment
         infastructure, including security, privacy, governance, performance,
