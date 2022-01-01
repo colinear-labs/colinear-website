@@ -2,6 +2,7 @@
   <div class="home antialiased">
     <Navbar />
     <About />
+    <Product />
     <Compare />
     <Token />
     <Participate />
