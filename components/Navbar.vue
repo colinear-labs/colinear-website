@@ -1,9 +1,9 @@
 <template>
-  <div class="flex pl-32 pr-24 pt-12 antialiased">
+  <div class="flex xl:pl-32 xl:pr-24 lg:pl-12 lg:pr-8 md:px-6 px-4 lg:pt-12 md:pt-10 pt-6 antialiased">
     <nuxt-link to="/" class="mr-auto" style="height: 38px;" >
       <img src="~/static/logo_v3.svg" class="mr-auto" style="margin-left: -5px;" />
     </nuxt-link>
-    <div class="flex items-center">
+    <div class="lg:flex items-center hidden">
       <nuxt-link to="/" class="mr-10"> Home </nuxt-link>
       <nuxt-link to="/about" class="mr-10"> About </nuxt-link>
       <nuxt-link to="/staking" class="mr-10"> Staking </nuxt-link>

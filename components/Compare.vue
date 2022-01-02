@@ -1,6 +1,6 @@
 <template>
-  <div class="flex antialiased">
-    <div class="flex flex-col w-1/2 bg-dark pl-32 pt-28 pb-32">
+  <div class="flex md:flex-row flex-col antialiased">
+    <div class="flex flex-col md:w-1/2 w-full bg-dark xl:pl-32 lg:pl-12 md:pl-8 px-4 md:pt-28 pt-16 md:pb-32 pb-20">
       <h3 class="uppercase font-roboto mb-3" data-aos="fade-in">Payments Now</h3>
       <h2 class="font-title" data-aos="fade-in">Provider-centric system</h2>
       <h4 class="font-roboto mt-10" data-aos="fade-in">Trust-based</h4>
@@ -21,7 +21,7 @@
         <p>Controlled by payment providers solely.</p>
       </div>
     </div>
-    <div class="flex flex-col w-1/2 bg-light px-32 py-28">
+    <div class="flex flex-col md:w-1/2 w-full bg-light xl:pl-32 lg:pl-12 md:pl-8 px-4 md:pt-28 pt-16 md:pb-32 pb-20">
       <h3 class="uppercase font-roboto mb-3" data-aos="fade-in">Payments With Colinear</h3>
       <h2 class="font-title" data-aos="fade-in">Merchant-centric system</h2>
       <h4 class="font-roboto mt-10" data-aos="fade-in">Decentralized</h4>
