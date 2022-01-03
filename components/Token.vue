@@ -1,7 +1,7 @@
 <template>
   <div class="flex md:flex-row flex-col xl:px-32 lg:px-12 md:px-6 px-4 lg:py-32 md:py-24 py-16">
     <div class="flex flex-col md:w-1/2 w-full">
-      <h2 class="font-title" data-aos="fade-in">
+      <h2 class="font-title" data-aos="fade-in" id="token">
         Colinear Network Token (CLR) secures our Proof-of-Stake network.
       </h2>
       <button class="md:flex hidden items-center mt-24" data-aos="fade-in">
