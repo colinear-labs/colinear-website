@@ -9,9 +9,10 @@
       </div>
       <div class="flex flex-col font-roboto md:w-1/2 w-full md:ml-8 md:mt-1 mt-14">
         <p data-aos="fade-up">
-          Colinear is designed to solve issues prevalent in current payment
-          infastructure, including security, privacy, governance, performance,
-          reliability, and high setup costs.
+          Colinear is P2P— not a centralized financial institution. 
+          Its code is open for viewing by auditors and contributions from 
+          the general public. It's simple to use, easy to integrate, 
+          and can easily be self-hosted if necessary.
         </p>
         <button class="flex items-center md:mt-12 mt-14" data-aos="fade-up">
           <div class="mr-8">GET STARTED</div>

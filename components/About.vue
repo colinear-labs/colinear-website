@@ -9,18 +9,21 @@
     <div class="flex flex-col font-roboto md:w-1/2 w-full md:ml-8 md:mt-0 mt-16">
       <p data-aos="fade-up">
         Colinear is designed to solve issues prevalent in current payment
-        infastructure, including security, privacy, governance, performance,
-        reliability, and high setup costs.
+        infastructure, including centralization, security, privacy, governance, 
+        performance, and high setup costs.
         <br />
         <br />
-        It is based on a peer to peer (P2P) network that includes blockchain
-        nodes, proof of stake, encrypted routing, and an economic model that
-        enables and fosters the deployment of this architecture.
+        It is comprised of a peer to peer (P2P) network that includes blockchain
+        nodes, proof of stake consensus, encrypted routing, and an economic model 
+        that enables and fosters the deployment of this architecture.
       </p>
-      <button class="flex items-center md:mt-12 mt-14" data-aos="fade-up">
-        <div class="mr-8">ABOUT</div>
-        <img src="~/static/arrow.svg" />
-      </button>
+
+      <nuxt-link to="/about">
+        <button class="flex items-center md:mt-12 mt-14" data-aos="fade-up">
+          <div class="mr-8">ABOUT</div>
+          <img src="~/static/arrow.svg" />
+        </button>
+      </nuxt-link>
     </div>
   </div>
 </template>
