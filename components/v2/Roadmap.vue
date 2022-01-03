@@ -15,7 +15,7 @@
         <div class="flex items-start mt-28">
             <p class="text-md uppercase tracking-wide leading-tight text-gray-600 w-1/3" data-aos="fade-up">FEB-MAR 2022</p>
             <div class="flex flex-col w-1/4 mr-16" data-aos="fade-up">
-                <p class="text-2xl font-bold tracking-tight text-gray-800 mb-3">3. Node Opperator Onboarding</p>
+                <p class="text-2xl font-bold tracking-tight text-gray-800 mb-3">3. Node Operator Onboarding</p>
                 <p class="text-lg text-gray-500">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum auctor ac nunc in aliquet.</p>
             </div>
             <div class="flex flex-col w-1/4" data-aos="fade-up">

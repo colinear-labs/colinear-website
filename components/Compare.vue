@@ -6,19 +6,19 @@
       <h4 class="font-roboto mt-10" data-aos="fade-in">Trust-based</h4>
       <div class="flex font-roboto items-center mt-8" data-aos="fade-in">
         <img src="~/static/close.svg" class="mr-4" />
-        <p>Data Security is third-party dependent.</p>
+        <p>Dependent on a third-party organizations.</p>
       </div>
       <div class="flex font-roboto items-center mt-7" data-aos="fade-in">
         <img src="~/static/close.svg" class="mr-4" />
-        <p>No Privacy.</p>
+        <p>Users must go through a registration process.</p>
       </div>
       <div class="flex font-roboto items-center mt-7" data-aos="fade-in">
         <img src="~/static/close.svg" class="mr-4" />
-        <p>High-fees, not optimal performance.</p>
+        <p>Processing providers take a fee from each payment.</p>
       </div>
       <div class="flex font-roboto items-center mt-7" data-aos="fade-in">
         <img src="~/static/close.svg" class="mr-4" />
-        <p>Controlled by payment providers solely.</p>
+        <p>Fully controlled by processing providers.</p>
       </div>
     </div>
     <div class="flex flex-col md:w-1/2 w-full bg-light xl:pl-32 lg:pl-12 md:pl-8 px-4 md:pt-28 pt-16 md:pb-32 pb-20">
@@ -27,19 +27,19 @@
       <h4 class="font-roboto mt-10" data-aos="fade-in">Decentralized</h4>
       <div class="flex font-roboto items-center mt-8" data-aos="fade-in">
         <img src="~/static/check-circle.svg" class="mr-4" />
-        <p>True End-to-End Data Security.</p>
+        <p>Run by the community. Can be self-hosted.</p>
       </div>
       <div class="flex font-roboto items-center mt-7" data-aos="fade-in">
         <img src="~/static/check-circle.svg" class="mr-4" />
-        <p>Privacy by default.</p>
+        <p>No business registration is required.</p>
       </div>
       <div class="flex font-roboto items-center mt-7" data-aos="fade-in">
         <img src="~/static/check-circle.svg" class="mr-4" />
-        <p>Best possible performance.</p>
+        <p>No processing fees.</p>
       </div>
       <div class="flex font-roboto items-center mt-7" data-aos="fade-in">
         <img src="~/static/check-circle.svg" class="mr-4" />
-        <p>Governed by its Users.</p>
+        <p>Governed by its users.</p>
       </div>
     </div>
   </div>

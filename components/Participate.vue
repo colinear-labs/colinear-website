@@ -7,11 +7,11 @@
     <div class="flex md:flex-row flex-col font-roboto justify-between mt-16" data-aos="fade-in">
       <p class="md:mr-10 md:mb-0 mb-10">
         <b class="font-semibold">Full nodes</b> - share and monetize their
-        compute resources.
+        blockchain nodes.
       </p>
       <p class="md:mr-10 md:mb-0 mb-10">
-        <b class="font-semibold">Validators</b> - validate and audit payment
-        node opperators.
+        <b class="font-semibold">Validators</b> - validate and audit full
+        node operators.
       </p>
       <p>
         <b class="font-semibold">End Users</b> - integrate Colinear
