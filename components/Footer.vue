@@ -107,7 +107,7 @@
         <a class="md:block hidden text-sm text-gray-100 mr-4">Privacy</a>
         <a class="md:block hidden text-sm text-gray-100 mr-4">Terms</a>
         <a
-          class="text-sm text-gray-100 mr-4"
+          class="md:block hidden text-sm text-gray-100 mr-4"
           href="mailto:investors@colinear.io"
           >Contact Us &#8594; investors@colinear.io</a
         >
