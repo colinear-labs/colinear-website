@@ -7,7 +7,7 @@
       <nuxt-link to="/" class="mr-10"> Home </nuxt-link>
       <nuxt-link to="/about" class="mr-10"> About </nuxt-link>
       <a class="mr-10" href="https://github.com/colinear-labs" target="_blank">Github</a>
-      <!--<a class="mr-10" href="https://www.twitter.com"> Twitter </a>-->
+      <!-- <a class="mr-10" href="https://www.twitter.com" target="_blank"> Twitter </a> -->
       <!-- <nuxt-link to="/faq" class="mr-10"> F.A.Q </nuxt-link> -->
       <!-- <nuxt-link to="/news" class="mr-10"> News </nuxt-link> -->
       <a href="https://docs.colinear.io" target="_blank" class="mr-10"> Documentation &nbsp;&#8599; </a>
