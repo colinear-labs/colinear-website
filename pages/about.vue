@@ -11,26 +11,29 @@
         Technology
       </h3>
       <p class="font-roboto" data-aos="fade-up">
-        Our technology powers sit amet, consectetur adipiscing elit, sed do
-        eiusmod tempor incididunt ut labore et dolore magna aliqua. Id venenatis
-        a condimentum vitae sapien pellentesque habitant. Nunc sed velit
-        dignissim sodales ut eu sem integer. Neque viverra justo nec ultrices
-        dui sapien eget. Aliquet enim tortor at auctor urna nunc id cursus. Est
-        sit amet facilisis magna.
+        Colinear's network consists of payments servers (which can be run by
+        trusted community members or merchants themselves) and full nodes (which are run by
+        node operators). Payment servers generate payment intents on behalf of merchants, and 
+        send them to full nodes, which then scan the relevant blockchains to ensure that the 
+        user transactions are properly submitted to the mempool and confirmed on-chain. Full nodes
+        then inform the payment servers when (or if) the intents have been completed, and the servers 
+        can emit a webhook to any API endpoint of the merchant's choosing.
       </p>
       <h3 class="font-roboto uppercase mt-16 mb-4" data-aos="fade-in">
         ECOSYSTEM
       </h3>
       <p class="font-roboto" data-aos="fade-in">
-        Ecosystem gravida cum sociis natoque penatibus et magnis. Enim nulla
-        aliquet porttitor lacus luctus accumsan tortor. Purus semper eget duis
-        at tellus at urna. Eros donec ac odio tempor orci. Vel fringilla est
-        ullamcorper eget nulla facilisi. Viverra suspendisse potenti nullam ac
-        tortor vitae. Pulvinar etiam non quam lacus suspendisse faucibus.
-        Tristique risus nec feugiat in fermentum posuere urna nec tincidunt.
+        Node operators are rewarded for processing payments through the minting of a 
+        governance token (CLR), which can be used for protocol governance votes. If 
+        the operators would not like to participate, they are able to simply liquidate 
+        their CLR tokens on an exchange so that others can buy them and participate. 
+        As CLR will have a set inflation rate to reward operators, protocol votes will 
+        burn CLR to keep the token supply in relative equilibrium.
       </p>
 
-      <h3 class="font-roboto uppercase mt-16 mb-4" data-aos="fade-in">TEAM</h3>
+      <!-- Add team section back in later -->
+
+      <!-- <h3 class="font-roboto uppercase mt-16 mb-4" data-aos="fade-in">TEAM</h3>
       <p class="font-roboto" data-aos="fade-in">
         The team donec ac odio tempor orci. Vel fringilla est ullamcorper eget
         nulla facilisi. Viverra suspendisse potenti nullam ac tortor vitae.
@@ -43,7 +46,7 @@
         Pellentesque elit eget gravida cum sociis natoque. Enim blandit volutpat
         maecenas volutpat. Posuere morbi leo urna molestie. Id semper risus in
         hendrerit gravida rutrum quisque non tellus.
-      </p>
+      </p> -->
     </div>
     <Footer />
   </div>
